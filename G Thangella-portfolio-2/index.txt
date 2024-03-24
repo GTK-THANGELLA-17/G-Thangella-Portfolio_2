@@ -1,0 +1,143 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = G Thangella
+G Thangella
+Game developer
+
+Show Contacts
+
+Email
+imgtk17@gmail.com
+
+Phone
++91 8008133117
+
+Birthday
+May 27, 2002
+
+Location
+Hyderabad, Telanagana, India
+
+# navbar
+
+About
+Resume
+Portfolio
+
+# about
+
+About me
+
+•Aspiring Unity Developer proficient in C# programming and passionate about game development.
+
+•Skilled in Unity and Unreal Engine, eager to create engaging experiences.
+
+•Experienced with Photoshop, Blender, and Autodesk Maya, continually enhancing abilities for game projects.
+
+•Coursework and personal projects have solidified expertise in game design, 2D/3D graphics, and C# programming.
+
+•Detail-oriented with a passion for storytelling, level design, and player engagement principles.
+
+••Currently pursuing my Degree, I am eager to apply my Knowledge and expand my skills through a challenging opportunity.
+
+
+# resume
+
+Resume
+
+Education
+
+•BackstagePass Institute Of Gaming And
+Technology
+2020 - pursuing
+Bsc(Honours) Computer Science And Gaming
+Development
+
+•Sri Gayatri Junior College
+2017 - 2019
+Intermediate (MPC)
+Board of Intermediate Education, Telangana State
+Pass percentage : 72%
+
+•Lotus Lap Public School
+- 2017
+SSC
+Board of Secondary Education, Telangana state
+Pass Percentage 83%
+
+
+My skills
+
+•C#                        •Unity
+•Game Design               •Unreal Engine
+•Autodesk Maya             •Photoshop
+•Blender
+•Project Management  
+
+
+
+# portfolio
+
+Portfolio
+
+All
+2d games
+3d games
+
+
+Select category
+All
+2D games
+3D games
+
+
+alt=•Exit On Time (Car Game)3d
+GamePlay LINK :
+https://drive.google.com/file/d/1dNmlMySMJ5JGc0ZB98AJPMJ8cJt44TdE/view?usp=drivesdk
+
+alt=•Endless car (2d)
+GamePlay LINK :
+https://drive.google.com/file/d/1dNw0mp0NlTTNhZC5TNwJzTt6QhuBYg1/view?usp=drivesdk
+
+
+alt=•GOAL (Football Game(2d))
+GamePlay LINK :
+https://drive.google.com/file/d/1JZ1RkX2_JuofOTdu_vQx3s8LjUGxZe6Z/view?usp=drivesdk
+
+alt=• SNOW BOARDER
+GamePlay LINK:
+https://drive.google.com/file/d/1cafkuqQ0D3uS1WJbg_lYXCZceKMQDOGW/view?usp=drivesdk
+
+
+alt=•ESCAPE AND REACH
+GamePlay LINK:
+https://drive.google.com/file/d/1cSdyz9OkiiPUn5RARbPKJX6pD1VfHw7z/view?usp=drivesdk
+https://drive.google.com/file/d/1cXW2SVRE1fZboKcNIXZzmaJC3KDUzhl/view?usp=drivesdk
+
+alt=• DELIVERY IN
+GamePlay LINK:
+https://drive.google.com/file/d/1cm_RCc163vRrJ7lx2g2l2zwDwl9hlRT3/view?usp=drivesdk
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Phone:
+8008133117
+Address:
+Hyderabad ,Telangana, INDIA
+E-Mail:	
+IMGTK17@GMAIL.COM
+Linkedin:
+https://www.linkedin.com/in/gthangella?utm_source
+
+Full name
+Email address
+Your Message
+
+Send Message
